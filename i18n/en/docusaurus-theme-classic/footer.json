@@ -7,10 +7,6 @@
     "message": "Tutorial",
     "description": "Label for the tutorial link in the footer"
   },
-  "copyright": {
-    "message": "Copyright ©  My Company, Inc. Built with Docusaurus.",
-    "description": "The footer copyright"
-  },
   "link.title.Doc": {
     "message": "Doc",
     "description": "The title of the footer links column with title=Doc in the footer"

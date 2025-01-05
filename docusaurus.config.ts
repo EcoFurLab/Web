@@ -5,9 +5,11 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Building!',
+  title: 'Eco\'s Web',
   tagline: 'This web is building',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/ecofur.png',
+  // favicon: 'img/logo.svg',
+  favicon: 'img/ico/Eco_128x.png',
 
   // Set the production url of your site here
   url: 'https://ecofur.top/',
@@ -95,8 +97,9 @@ const config: Config = {
       title: 'Eco',
       logo: {
         alt: 'Eco\'s Logo',
-        src: 'img/logo.svg',
-        href: '#',
+        // src: 'img/logo.svg',
+        src: 'img/ico/Eco_128x.png',
+        // href: '#',
       },
       items: [
         {
@@ -127,6 +130,14 @@ const config: Config = {
         {
           title: 'Community',
           items: [
+            {
+              label: 'Bilibili',
+              href: 'https://space.bilibili.com/1237889080',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/ecofur',
+            },
             {
               label: 'X',
               href: 'https://x.com/FurryEco',

@@ -1,4 +1,8 @@
 {
+  "tagline": {
+    "message": "这个网站正在构建中",
+    "description": "网站的标语"
+  },
   "title": {
     "message": "Eco",
     "description": "The title in the navbar"

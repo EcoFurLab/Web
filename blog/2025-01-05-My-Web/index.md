@@ -4,4 +4,6 @@ title: My Web
 authors: [eco]
 tags: [Server]
 ---
+
+<!--truncate-->
 Hello
