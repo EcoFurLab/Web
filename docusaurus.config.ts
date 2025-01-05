@@ -41,14 +41,14 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['en', 'zh-Hans'],
+    defaultLocale: 'zh',
+    locales: ['en', 'zh'],
     localeConfigs: {
       en: {
         label: 'English',
         direction: 'ltr',
       },
-      'zh-Hans': {
+      'zh': {
         label: '简体中文',
         direction: 'ltr',
       },
@@ -96,14 +96,14 @@ const config: Config = {
       logo: {
         alt: 'Eco\'s Logo',
         src: 'img/logo.svg',
+        href: '#',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          // label: 'Tutorial',
-          label: '文档',
+          label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -116,19 +116,16 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          // title: 'Docs',
-          title: '文档',
+          title: 'Docs',
           items: [
             {
-              label: '文档',
-              // label: 'Tutorial',
+              label: 'Tutorial',
               to: '/docs/intro',
             },
           ],
         },
         {
-          // title: 'Community',
-          title: '媒体',
+          title: 'Community',
           items: [
             {
               label: 'X',
@@ -137,7 +134,7 @@ const config: Config = {
           ],
         },
         {
-          title: '更多',
+          title: 'More',
           items: [
             {
               label: 'Blog',
@@ -157,20 +154,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  customFields: {
-    translations: {
-      'en': {
-        'footer.docs': 'Docs',
-        'footer.tutorial': '???',
-        'footer.copyright': 'Copyright © ${year} My Company, Inc. Built with Docusaurus.',
-      },
-      'zh-Hans': {
-        'footer.docs': '文档',
-        'footer.tutorial': '教程',
-        'footer.copyright': '版权所有 © ${year} 我的公司。有 Docusaurus 构建。',
-      },
-    },
-  },
 };
 
 export default config;
