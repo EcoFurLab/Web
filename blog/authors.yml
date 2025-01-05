@@ -1,0 +1,9 @@
+eco:
+  name: Eco Preson
+  title: Student
+  url: https://ecofur.top
+  image_url: /img/ecofur.png
+  page: true
+  socials:
+    x: FurryEco
+    github: ecofur
