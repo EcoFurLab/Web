@@ -1,0 +1,12 @@
+server:
+  label: Server
+  permalink: /server
+  description: Server tag
+project:
+  label: Project
+  permalink: /project
+  description: Project tag
+note:
+  label: Note
+  permalink: /note
+  description: Note tag

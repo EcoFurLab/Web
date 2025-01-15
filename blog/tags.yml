@@ -1,8 +1,12 @@
-greetings:
-  label: greetings
-  permalink: /greetings
-  description: greetings tag description
-Server:
-  label: Server
+server:
+  label: 服务器
   permalink: /server
-  description: server tag description
+  description: 服务器标签
+project:
+  label: 项目
+  permalink: /project
+  description: 项目标签
+note:
+  label: Note
+  permalink: /note
+  description: Note 标签
