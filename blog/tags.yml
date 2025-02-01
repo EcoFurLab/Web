@@ -10,3 +10,11 @@ note:
   label: Note
   permalink: /note
   description: Note 标签
+give-up:
+  label: 放弃
+  permalink: /give-up
+  description: 放弃标签
+gallery:
+  label: 画廊
+  permalink: /gallery
+  description: 照片、手绘等艺术作品
