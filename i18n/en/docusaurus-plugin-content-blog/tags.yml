@@ -1,7 +1,7 @@
 server:
   label: Server
   permalink: /server
-  description: Server tag
+  description: About my server building
 project:
   label: Project
   permalink: /project
@@ -10,3 +10,11 @@ note:
   label: Note
   permalink: /note
   description: Note tag
+give-up:
+  label: Give Up
+  permalink: /give-up
+  description: Give up something
+gallery:
+  label: Gallery
+  permalink: /gallery
+  description: Artworks

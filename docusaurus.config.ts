@@ -8,7 +8,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Eco 的网站',
-  tagline: '网站还在构建中，但我的 Blog 已经开启了',
+  // tagline: '网站还在构建中，但我的 Blog 已经开启了',
   // favicon: 'img/ecofur.png',
   // favicon: 'img/logo.svg',
   favicon: 'img/ico/Eco_128x.png',
@@ -105,7 +105,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/ecoCard_small.jpg',
     navbar: {
       title: 'Eco',
       logo: {

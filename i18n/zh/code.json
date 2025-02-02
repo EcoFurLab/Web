@@ -309,5 +309,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "indexTitle": {
+    "message": "Eco 的主页"
+  },
+  "indexDescription": {
+    "message": "Eco Preson 的个人主页"
+  },
+  "computer": {
+    "message": "电脑"
+  },
+  "indexMassage": {
+    "message": "如你所见，这个网页正在构建中，但你可以先看看我的博客👉"
+  },
+  "blog": {
+    "message": "博客"
+  },
+  "helloWorld": {
+    "message": "Hello\nWorld"
+  },
+  "welcome": {
+    "message": "欢迎来到我的主页"
+  },
+  "clickHereToBlog": {
+    "message": "点击这里去到我的博客\n>_"
   }
 }

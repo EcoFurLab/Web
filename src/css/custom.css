@@ -39,6 +39,7 @@
 }
 .navbar-sidebar{
   height: 100vh;
+  z-index: 10000;
 }
 [data-theme='dark'] .navbar-sidebar{
   background-color: #32385a;
@@ -47,6 +48,3 @@
   background-color: #2d345a55;
   height: 100vh;
 }
-/* .main-wrapper{
-  background-color: #111;
-} */

@@ -55,4 +55,3 @@ Wire.begin(SDA_PIN, SCL_PIN); //使用模拟IIC
 ```
 然后改了下「Serial」的发送内容和「Delay」传了上去：
 ![读到的数据与串口绘图](1.png)
-[下一章](wireless-accelerometer-2)
