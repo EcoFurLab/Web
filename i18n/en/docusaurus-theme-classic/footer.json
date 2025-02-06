@@ -32,7 +32,7 @@
     "description": "The label of footer link with label=Blog linking to /blog"
   },
   "copyright": {
-    "message": "Copyright © 2025 Eco Preson.",
+    "message": "Copyright © 2025 Eco Preson. Not separately stated, it is licensed under CC BY-NC-SA 4.0.",
     "description": "The footer copyright"
   }
 }

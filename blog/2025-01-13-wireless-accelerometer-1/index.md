@@ -2,7 +2,8 @@
 slug: wireless-accelerometer-1
 title: 无线加速度传感器 - 1
 authors: [eco]
-tags: [project]
+tags: [project, wireless-accelerometer]
+image: 1.jpg
 ---
 
 - 上传代码 & 驱动 MPU6050

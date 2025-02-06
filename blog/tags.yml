@@ -18,3 +18,16 @@ gallery:
   label: 画廊
   permalink: /gallery
   description: 照片、手绘等艺术作品
+diary:
+  label: 日记
+  permalink: /diary
+  description: 记录日常生活
+redamancy:
+  label: Redamancy
+  permalink: /redamancy
+  description: Redamancy
+wireless-accelerometer:
+  labal: 无线加速度传感器
+  permalink: /wireless-accelerometer
+  description: 无线加速度传感器标签
+  

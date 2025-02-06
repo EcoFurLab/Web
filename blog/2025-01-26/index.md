@@ -1,8 +1,9 @@
 ---
 slug: wireless-accelerometer-2dot5
 title: 放弃 MPU 6050
+image: 0.jpg
 authors: [eco]
-tags: [project, give-up]
+tags: [project, give-up, wireless-accelerometer]
 ---
 
 **「学习电子技术其实是一个不断放弃的过程」**  

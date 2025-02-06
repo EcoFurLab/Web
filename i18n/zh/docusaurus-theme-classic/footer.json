@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=Bilibili linking to https://space.bilibili.com/1237889080"
   },
   "copyright": {
-    "message": "Copyright © 2025 Eco Preson.",
+    "message": "Copyright © 2025 Eco Preson. 未单独声明，责遵循 CC BY-NC-SA 4.0 协议。",
     "description": "The footer copyright"
   }
 }

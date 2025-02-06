@@ -18,3 +18,16 @@ gallery:
   label: Gallery
   permalink: /gallery
   description: Artworks
+diary:
+  label: Diaries
+  permalink: /diary
+  description: Diaries
+redamancy:
+  label: Redamancy
+  permalink: /redamancy
+  description: Redamancy
+wireless-accelerometer:
+  labal: Wireless Accelerometer
+  permalink: /wireless-accelerometer
+  description: Wireless Accelerometer tag
+  

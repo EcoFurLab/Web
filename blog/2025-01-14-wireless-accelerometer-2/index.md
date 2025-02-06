@@ -2,8 +2,8 @@
 slug: wireless-accelerometer-2
 title: 无线加速度传感器 - 2
 authors: [eco]
-tags: [project]
-# image: ./1.png
+tags: [project,wireless-accelerometer]
+image: 0.jpg
 date: "2025-01-14"
 toc_max_heading_level: 5
 ---

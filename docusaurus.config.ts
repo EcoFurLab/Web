@@ -102,6 +102,12 @@ const config: Config = {
         'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
       crossorigin: 'anonymous',
     },
+    {
+      href:'https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css'
+    }
+  ],
+  scripts:[
+    'https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js',
   ],
   themeConfig: {
     // Replace with your project's social card

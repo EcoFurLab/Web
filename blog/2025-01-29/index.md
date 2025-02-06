@@ -3,7 +3,7 @@ slug: gallery_20250129
 title: 烟花·画廊
 authors: [eco]
 tags: [gallery]
-image: dji_fly_20250128_192226_197_1738063387019_photo_optimized.jpeg
+image: 0.jpg
 ---
 回老家除夕拍的照片
 
